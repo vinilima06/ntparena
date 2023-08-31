@@ -499,7 +499,7 @@ body {
   position: relative;
   text-decoration: none;
   display:inline-block;
-  margin-right:7px;
+  /* margin-right:7px; */
   
 }
 .botao::before {
@@ -588,8 +588,8 @@ body {
     -webkit-transition: all .94s cubic-bezier(.2,.95,.57,.99);
     -moz-transition: all .4s cubic-bezier(.2,.95,.57,.99);
     -o-transition: all .4s cubic-bezier(.2,.95,.57,.99);
-    transition: all .4s cubic-bezier(.2,.95,.57,.99);
-    box-shadow: 2px 0px 14px rgba(0,0,0,.6);
+     transition: all .4s cubic-bezier(.2,.95,.57,.99); 
+    box-shadow: 2px 0px 14px rgba(6, 132, 222, 0.6); 
 }
 .botao:hover::before, .botao:hover::before{
    
@@ -619,6 +619,5 @@ body {
     padding-right: 100%;
 }
 
-.whats {
-    
-}
+
+
