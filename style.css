@@ -815,7 +815,7 @@ nav {
       -o-transition: all .7s cubic-bezier(0.77, 0, 0.175, 1);
       -webkit-transition: all .7s cubic-bezier(0.77, 0, 0.175, 1);
       transition: all .7s cubic-bezier(0.77, 0, 0.175, 1);
-      box-shadow:2px 0px 14px rgba(0,0,0,.6);
+      box-shadow:2px 0px 14px rgba(8, 143, 188, 0.6);
   } 
   .botao::after {
    
@@ -836,7 +836,7 @@ nav {
       -moz-transition: all .4s cubic-bezier(.2,.95,.57,.99);
       -o-transition: all .4s cubic-bezier(.2,.95,.57,.99);
       transition: all .4s cubic-bezier(.2,.95,.57,.99);
-      box-shadow: 2px 0px 14px rgba(0,0,0,.6);
+      box-shadow: 2px 0px 14px rgba(8, 143, 188, 0.6);
   }
   .botao:hover::before, .botao:hover::before{
      
