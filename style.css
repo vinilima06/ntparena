@@ -197,11 +197,15 @@ nav {
     padding: 1em;
     left: 12%;
     right: 12%;
+    opacity: 70%;
+    border-radius:15px;
+    height: 100px;
+    width: 700px;
 }
 
 /* Estilos para o titulo na legenda do carousel */
 .carousel-caption h5 {
-    font-size: 1.8em;
+    font-size: 0.5em;
 }
 
 /* Media query para telas com largura minima de 768px */
