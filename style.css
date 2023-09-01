@@ -17,7 +17,7 @@ body {
     background-color: #0d0d0d;
 }
 .secondary-bg-color {
-    background-color: #976df2;
+    background-color: #00b0d9;
 }
 .light-bg-color {
     background-color: #fcf5eb;
@@ -43,6 +43,10 @@ body {
 #navbar .navbar-nav {
     flex-direction: row;
     justify-content: flex-end;
+
+}
+nav {
+    height: 100px;
 }
 
 /* Define margem a esquerda para os itens da barra de navegação */
@@ -166,6 +170,7 @@ body {
 
 #bottom-navbar-container .container-fluid{
         border: 5px dotted blue;
+
     }
 
 #bottom-navbar-container a {
