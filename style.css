@@ -49,6 +49,10 @@ nav {
     height: 100px;
 }
 
+.img-cabeçalho{
+    height: 120px;
+    width: 120px;
+}
 /* Define margem a esquerda para os itens da barra de navegação */
 #navbar .navbar-nav {
     margin-left: 1em;
