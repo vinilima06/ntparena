@@ -35,9 +35,8 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
 
       <!-- Logo (Livro) -->
-      <a class="navbar-brand" href="<?= $BASE_URL ?>index.php">
+      <a class="navbar-brand" href="../home.html">
         <img src="<?= $BASE_URL ?>img/logao.PNG" alt="Cadastros" >
-        
       </a>
 
 
